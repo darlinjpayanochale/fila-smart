@@ -83,3 +83,6 @@ Como estudiante, quiero visualizar estadísticas de mis aportes para conocer cu�
 # Prompt Utilizado
 
 Actúa como analista de productos digitales y ayúdame a generar una idea de aplicación móvil sencilla y útil para estudiantes universitarios. Genera una ficha de producto que incluya nombre, problema que resuelve, usuario objetivo, jobs to be done, propuesta de valor, tipo de aplicación y un backlog inicial con al menos 8 historias de usuario clasificadas por prioridad utilizando el formato "Como [usuario], quiero [acción]".
+
+Repositorio: 
+https://github.com/darlinjpayanochale/fila-smart
