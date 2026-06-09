@@ -1,0 +1,85 @@
+# StudySwap
+
+## Ficha de Idea de Producto
+
+### Nombre tentativo de la app
+
+StudySwap
+
+### Problema que resuelve
+
+En la universidad es común que algunos estudiantes pierdan clases por trabajo, situaciones personales o actividades académicas. Cuando esto ocurre, muchas veces les resulta difícil conseguir apuntes, prácticas, resúmenes o materiales de estudio de forma rápida y organizada. Generalmente tienen que preguntar en grupos de WhatsApp o contactar varios compañeros hasta encontrar la información que necesitan.
+
+### Usuario objetivo (perfil)
+
+Estudiantes universitarios que desean compartir o encontrar materiales de estudio relacionados con sus asignaturas. También está dirigida a estudiantes que buscan formar grupos de estudio o colaborar con compañeros de su misma carrera.
+
+### Jobs To Be Done
+
+* Como estudiante, quiero encontrar apuntes y materiales de una asignatura para ponerme al día cuando falte a clases.
+* Como estudiante, quiero compartir mis resúmenes y prácticas para ayudar a otros compañeros.
+* Como estudiante, quiero encontrar personas con quienes estudiar para prepararme mejor para exámenes y proyectos.
+
+### Propuesta de valor
+
+StudySwap facilita el intercambio de materiales académicos entre estudiantes, permitiendo acceder a apuntes, resúmenes y recursos de estudio de manera rápida y organizada.
+
+### Tipo de app
+
+Aplicación educativa.
+
+---
+
+# Backlog Inicial
+
+## Prioridad Alta
+
+### HU-01
+
+Como estudiante, quiero registrarme en la plataforma para acceder a sus funcionalidades.
+
+### HU-02
+
+Como estudiante, quiero iniciar sesión para acceder a mi cuenta.
+
+### HU-03
+
+Como estudiante, quiero subir apuntes y materiales de estudio para compartirlos con otros usuarios.
+
+### HU-04
+
+Como estudiante, quiero buscar materiales por asignatura para encontrar información relevante rápidamente.
+
+### HU-05
+
+Como estudiante, quiero descargar apuntes compartidos por otros usuarios para utilizarlos en mis estudios.
+
+## Prioridad Media
+
+### HU-06
+
+Como estudiante, quiero calificar los materiales descargados para ayudar a otros usuarios a identificar contenido útil.
+
+### HU-07
+
+Como estudiante, quiero guardar materiales en favoritos para encontrarlos fácilmente más adelante.
+
+### HU-08
+
+Como estudiante, quiero crear grupos de estudio para colaborar con otros compañeros.
+
+## Prioridad Baja
+
+### HU-09
+
+Como estudiante, quiero recibir recomendaciones de materiales relacionadas con mis asignaturas.
+
+### HU-10
+
+Como estudiante, quiero visualizar estadísticas de mis aportes para conocer cuánto contenido he compartido.
+
+---
+
+# Prompt Utilizado
+
+Actúa como analista de productos digitales y ayúdame a generar una idea de aplicación móvil sencilla y útil para estudiantes universitarios. Genera una ficha de producto que incluya nombre, problema que resuelve, usuario objetivo, jobs to be done, propuesta de valor, tipo de aplicación y un backlog inicial con al menos 8 historias de usuario clasificadas por prioridad utilizando el formato "Como [usuario], quiero [acción]".
